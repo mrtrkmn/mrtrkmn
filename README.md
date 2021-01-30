@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Haaukins - Cyber Training Platform](https://github.com/aau-network-security/haaukins)
 
-- 📝 I sometimes write articles on [mrturkmen.com](mrturkmen.com)
+- 📝 I sometimes write articles on [mrturkmen.com](https://mrturkmen.com)
 
 - 📫 How to reach me **hi@mrturkmen.com**
 
