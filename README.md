@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm mrtrkmn</h1>
 <h3 align="center">Working primarly on Go and Python along Docker, gRPC and Cloud.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtrkmn&label=Profile%20views&color=0e75b6&style=flat" alt="mrtrkmn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrtrkmn&label=Profile%20views&color=0e75b6&style=flat" alt="mrtrkmn" /> </p>
 
 - 🔭 I’m currently working on [Haaukins - Cyber Training Platform](https://github.com/aau-network-security/haaukins)
 
-- 📝 I sometimes write articles on [mrturkmen.com](https://mrturkmen.com)
+- 📝 I sometimes write blog posts on [mrturkmen.com](https://mrturkmen.com)
 
 - 📫 How to reach me **hi@mrturkmen.com**
 
