@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [packer: build custom images on cloud and local 🇬🇧](https://mrturkmen.com/build-with-packer/)
 - [fail2ban: block ssh bruteforce attacks 🇬🇧](https://mrturkmen.com/fail2ban/)
 - [Deploy with Ansible on CI/CD 🇬🇧](https://mrturkmen.com/deploy-with-ansible/)
 - [Introduction to Ansible - Handwritten Notes 🇬🇧](https://mrturkmen.com/intro-to-ansible-notes/)
-- [Download Youtube Playlists and Release through Github Actions [ CI/CD ] 🇬🇧](https://mrturkmen.com/download-release-youtube-playlists/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
