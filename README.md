@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hi@mrturkmen.com**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [hot config reload with os signal](https://mrturkmen.com/posts/hot-reload-with-os-signals/)
 - [packer: build custom images on cloud and local](https://mrturkmen.com/posts/build-with-packer/)
