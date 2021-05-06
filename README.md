@@ -1,6 +1,5 @@
 <h3 align="center">Working primarly on Go and Python along Docker, gRPC and Cloud.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrtrkmn&label=Profile%20views&color=0e75b6&style=flat" alt="mrtrkmn" /> </p>
 
 - 🔭 I’m currently working on [Haaukins - Cyber Training Platform](https://github.com/aau-network-security/haaukins)
 
@@ -24,3 +23,4 @@
 <a href="https://medium.com/@mrturkmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mrturkmen" height="30" width="40" style= "background-color: white;" /></a>
 <a href="/https://mrturkmen.com/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://mrturkmen.com/feed.xml" height="30" width="40" style= "background-color: white;" /></a>
 </p>
+<p> <img src="https://komarev.com/ghpvc/?username=mrtrkmn&color=0e75b6&style=flat" alt="mrtrkmn" /> </p>
