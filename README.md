@@ -1,10 +1,25 @@
-<h3 align="center">Working primarly on Go and Python along Docker, gRPC and Cloud.</h3>
+<h3>informatics (M.Sc) student at  <a href="https://www.in.tum.de/fuer-studieninteressierte/master-studiengaenge/informatik/" target="blank"><img style="width: 4%" src="https://www.tum.de/typo3conf/ext/in2template/Resources/Public/Images/tum-logo.svg"/></a> </h3>
 
+- 👨🏻‍🎓 I am currently studying at TUM, in the fields of Informatics.
 
-- 🔭 I’m currently working on [Haaukins - Cyber Training Platform](https://github.com/aau-network-security/haaukins)
+- 🔭 I worked on Open Source Projects driven by Aalborg University, Network Security group; 
+
+  -  [Haaukins - Cyber Training Platform](https://github.com/aau-network-security/haaukins) - GoLang, Docker, Vuejs, JavaScript, gRPC, Wireguard (VPN Access), Microservices Architecture, Virtualization, VirtualBox, Automated Pipelines, CI/CD Implementations
+      <details>
+        <summary>Dependent Services: (click to expand!)</summary>
+         <ul>
+            <li><a href="https://github.com/aau-network-security/haaukins-store" target="blank"><p>Haaukins Store - gRPC wrapped PostreSQL database service </p></a> </li>
+            <li> <a href="https://github.com/aau-network-security/haaukins-exercises" target="blank"><p>Haaukins Exercises- gRPC wrapped MongoDB database service</p></a></li>
+           <li><a href="https://github.com/aau-network-security/haaukins-webclient" target="blank"><p>Haaukins Webclient- gRPC wrapped web client works with Envoy and Vuejs</p></a></li>
+           <li> <a href="https://github.com/aau-network-security/gwireguard" target="blank"><p>Haaukins VPN Service- gRPC wrapped Wireguard implementation</p></a></li>
+         </ul>
+      </details>
+
+  -  [Richkit - Domain Enrichment Toolkit](https://github.com/aau-network-security/richkit) - Python, Alexa Database, Domain analysis helper functions and categorization, Docker
+ 
+  -  [Defatt - Defence and Attack Platform](https://github.com/aau-network-security/defatt) - GoLang, gRPC, Custom OpenvSwitch Implementation, Docker, Virtualization, Wireguard (VPN Access)
 
 - 📝 I sometimes write blog posts on [mrturkmen.com](https://mrturkmen.com)
-
 - 📫 How to reach me **hi@mrturkmen.com**
 
 ### Blog posts
