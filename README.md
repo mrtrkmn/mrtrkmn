@@ -20,7 +20,7 @@
   -  [Defatt - Defence and Attack Platform](https://github.com/aau-network-security/defatt) - GoLang, gRPC, Custom OpenvSwitch Implementation, Docker, Virtualization, Wireguard (VPN Access)
 
 - 📝 I sometimes write blog posts on [mrturkmen.com](https://mrturkmen.com)
-- 📫 How to reach me **hi@mrturkmen.com**
+- 📫 How to reach me **[g.e.ek@icloud.com](mailto:g.e.ek@icloud.com)**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
