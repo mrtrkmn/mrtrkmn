@@ -1,4 +1,5 @@
 * 🎓  msc student at tu münchen 
+* 🧑🏻‍💻  working as software validation engineer (working student) at @bmwgroup
 * ⌨️  pushing things to <a href="https://github.com/merkez" target="_blank">github.com/merkez</a> 
 * 🧮  worked on open source projects driven by aalborg university
   * *<a href="https://github.com/aau-network-security/haaukins" target="_blank">Haaukins</a>- go, grpc, postresql, mongodb, wireguard, vuejs, docker, networking, bash, ci/cd*
