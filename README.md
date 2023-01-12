@@ -1,5 +1,4 @@
 * :mortar_board: msc student at tu münchen 
-* :computer: working as software validation engineer (working student) at [@bmwgroup](https://www.bmwgroup.com)
 * :lock:  writing blog posts at [mrturkmen.com](https://mrturkmen.com)
 * :envelope:  pushing things to <a href="https://github.com/merkez" target="_blank">github.com/merkez</a> 
 * :white_check_mark: worked on open source projects driven by aalborg university
