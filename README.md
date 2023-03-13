@@ -2,7 +2,11 @@
 * :computer: cloud engineer [@ SAP](https://github.com/sap) (work-study)
 * :lock:  writing blog posts at [mrturkmen.com](https://mrturkmen.com)
   * <!-- BLOG-POST-LIST:START -->
-  * <!-- BLOG-POST-LIST:END -->
+- [cloudflare tunneling: serve local SSH service without PUBLIC IP](https://mrturkmen.com/posts/tunnelling-to-local-ssh-service/)
+- [automate: run github ci/cd through slack slash command](https://mrturkmen.com/posts/automate-ci-cd-with-slack-command/)
+- [cherry-pick: re-build git history](https://mrturkmen.com/posts/cherry-pick/)
+- [cloudflare workers: add auth to free Gitbook space](https://mrturkmen.com/posts/cloudflare-workers/)
+<!-- BLOG-POST-LIST:END -->
 * :envelope:  pushing things to <a href="https://github.com/merkez" target="_blank">github.com/merkez</a> 
 * :white_check_mark: worked on open source projects driven by aalborg university
   * :arrow_right: *<a href="https://github.com/aau-network-security/haaukins" target="_blank">Haaukins</a>- go, grpc, postresql, mongodb, wireguard, vuejs, docker, networking, bash, ci/cd*
