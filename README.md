@@ -5,7 +5,11 @@
   <summary> Latest Blog Posts</summary>
   <br>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [cloudflare tunneling: serve local SSH service without PUBLIC IP](https://mrturkmen.com/posts/tunnelling-to-local-ssh-service/)
+- [automate: run github ci/cd through slack slash command](https://mrturkmen.com/posts/automate-ci-cd-with-slack-command/)
+- [cherry-pick: re-build git history](https://mrturkmen.com/posts/cherry-pick/)
+- [cloudflare workers: add auth to free Gitbook space](https://mrturkmen.com/posts/cloudflare-workers/)
+<!-- BLOG-POST-LIST:END -->
   </details>
 * :envelope:  pushing things to <a href="https://github.com/merkez" target="_blank">github.com/merkez</a> 
 * :white_check_mark: worked on open source projects driven by aalborg university
