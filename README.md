@@ -11,8 +11,8 @@
 --- 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [decorators in python with examples](https://mrturkmen.com/posts/decorators-in-python/)
 - [from interview question to enlightenment: metaclasses in python](https://mrturkmen.com/posts/metaclasses-python/)
 - [cloudflare tunneling: serve local SSH service without PUBLIC IP](https://mrturkmen.com/posts/tunnelling-to-local-ssh-service/)
 - [automate: run github ci/cd through slack slash command](https://mrturkmen.com/posts/automate-ci-cd-with-slack-command/)
-- [cherry-pick: re-build git history](https://mrturkmen.com/posts/cherry-pick/)
 <!-- BLOG-POST-LIST:END -->
