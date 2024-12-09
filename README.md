@@ -12,8 +12,8 @@
 --- 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [rejection](https://mrturkmen.com/posts/rejection/)
 - [brief intro on DO-178; safety critical software development](https://mrturkmen.com/posts/safety-critical-software/)
 - [decorators in python with examples](https://mrturkmen.com/posts/decorators-in-python/)
 - [from interview question to enlightenment: metaclasses in python](https://mrturkmen.com/posts/metaclasses-python/)
-- [cloudflare tunneling: serve local SSH service without PUBLIC IP](https://mrturkmen.com/posts/tunnelling-to-local-ssh-service/)
 <!-- BLOG-POST-LIST:END -->
