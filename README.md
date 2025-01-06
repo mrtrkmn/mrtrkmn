@@ -1,6 +1,6 @@
 * :mortar_board: msc student [@ tu münchen](https://www.in.tum.de)
 * :computer: software / ci-cd engineer [@ Rohde Schwarz](https://www.rohde-schwarz.com/home_48230.html?change_c=true)
-* ✈️ master thesis student [@ Airbus Defence and Space](https://github.com/AirbusDefenceAndSpace)
+* ✈️ completed master thesis [@ Airbus Defence and Space](https://github.com/AirbusDefenceAndSpace)
 * :lock:  writing blog posts at [mrturkmen.com](https://mrturkmen.com)
 * :envelope:  pushing things to <a href="https://github.com/merkez" target="_blank">github.com/merkez</a> 
 * :white_check_mark: worked on open source projects driven by aalborg university
