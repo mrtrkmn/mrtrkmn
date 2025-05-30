@@ -1,3 +1,4 @@
+* :raising_hand: systems development engineer [@aws](https://github.com/aws)
 * :mortar_board: msc student [@ tu münchen](https://www.in.tum.de)
 * :computer: software / ci-cd engineer [@ Rohde Schwarz](https://www.rohde-schwarz.com/home_48230.html?change_c=true)
 * ✈️ completed master thesis [@ Airbus Defence and Space](https://github.com/AirbusDefenceAndSpace)
