@@ -1,6 +1,5 @@
 * :raising_hand: systems development engineer [@aws](https://github.com/aws)
-* :mortar_board: msc student [@ tu münchen](https://www.in.tum.de)
-* :computer: software / ci-cd engineer [@ Rohde Schwarz](https://www.rohde-schwarz.com/home_48230.html?change_c=true)
+* :computer: previously at [BMW Group](https://github.com/bmw-innovationlab), [SAP](https://github.com/SAP), [Airbus](https://github.com/airbus), [Rohde & Schwarz](https://github.com/Rohde-Schwarz)
 * ✈️ completed master thesis [@ Airbus Defence and Space](https://github.com/AirbusDefenceAndSpace)
    * 📖 Assessment of Container Runtimes w.r.t Airworthiness Certification ( DO-178C )
 * :lock:  writing blog posts at [mrturkmen.com](https://mrturkmen.com)
